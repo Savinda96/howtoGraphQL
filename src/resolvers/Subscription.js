@@ -15,8 +15,8 @@ const newLink = {
 
 const newVote = {
   subscribe: newVoteSubscribe,
-  resolve: (payload) => {
-    return payload;
+  resolve: (payLoad) => {
+    return payLoad;
   },
 };
 
